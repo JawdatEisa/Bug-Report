@@ -1,10 +1,10 @@
-/* 
- * Filename: ChangeBug.h
- * Description: Header file for the ChangeBug class
- * 
- * Version History:
- * 1.0 2024-07-02 - Initial version
- */
+/// 
+ // Filename: ChangeBug.h
+ // Description: Header file for the ChangeBug class
+ // 
+ // Version History:
+ // 1.0 2024-07-02 - Initial version
+ ///
 
 #pragma once
 
@@ -27,5 +27,5 @@ private:
     std::string description;
     std::string severity;
     std::string status;
-    ProductRelease* productRelease;
+    ProductRelease// productRelease;
 };

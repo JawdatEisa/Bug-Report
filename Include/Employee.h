@@ -1,10 +1,10 @@
-/* 
- * Filename: Employee.h
- * Description: Header file for the Employee class
- * 
- * Version History:
- * 1.0 2024-07-02 - Initial version
- */
+/// 
+ // Filename: Employee.h
+ // Description: Header file for the Employee class
+ // 
+ // Version History:
+ // 1.0 2024-07-02 - Initial version
+ ///
 
 #pragma once
 
